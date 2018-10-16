@@ -1,0 +1,18 @@
+
+Time series --> Extract the important caracteristics (mean, variance, period...)
+
+15th class = Class of object not observed
+=> Maybe set a threshold : if every probability is under X -> class 15 ?
+=> Or maybe a confidence value : is there specific algorithms that outputs a confidence value ?
+
+Remove Spectroscopy
+
+Remove DDF ?
+Or separated algorithm ?
+
+
++ probability or hot-vector ?
++ with 15th class or without ?
+
+
+(test_set.csv = 453'653'105 lines)
